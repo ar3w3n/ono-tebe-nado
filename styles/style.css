@@ -181,27 +181,6 @@
   min-height: 563px;
 }
 
-/* .lots__card-list {
-  display: flex;
-  flex-wrap: wrap;
-  list-style: none;
-  gap: 25px;
-  margin-bottom: 30px;
-}
-
-.card-link {
-  text-decoration: none;
-}
-
-.card {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  padding:  0 40px;
-  width: 334px;
-  height: 100%;
-} */
-
 .card__title {
   font-family: 'Raleway',  Arial, sans-serif;
   position: relative;
