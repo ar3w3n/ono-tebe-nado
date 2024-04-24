@@ -97,7 +97,7 @@
 
 .reset-span {
   letter-spacing: initial;
-}
+} 
 
 .text-left {
   line-height: 115%;
@@ -105,12 +105,10 @@
 
 .text-center {
   text-align: center;
-  /* margin-right: 30px; */
 }
 
 .text-right {
   text-align: right;
-  /* margin-left: 584px; */
 }
 
 .cover-text {
